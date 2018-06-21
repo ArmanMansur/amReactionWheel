@@ -90,9 +90,9 @@ public class Wheel extends ShapeRenderer {
 
         initAnimation();
 
-        tapToPlay = new Texture("cooltext2.png");
+        tapToPlay = new Texture("taptoplay.png");
 
-        gameName = new Texture( "gamename2.png");
+        gameName = new Texture( "title.png");
 
         highScore = new Texture("highscore3.png");
 
